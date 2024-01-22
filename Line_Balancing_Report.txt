@@ -1,0 +1,142 @@
+  Report generated on 12 January 2024 at 12:42:24
+  
+  
+  Total working days in one year                :       218.00 days
+  Total working hours in one day                :         8.00 hours
+  Total available time for processing           :      1744.00 hrs
+  The annual demand                             :      1860.00 units
+  The takt time for this process                :         0.94 hrs
+  The highest processing time for this line     :         0.03 hrs
+  The total task time for this line             :         0.70 hrs
+  Number of nodes                               :           65 
+  Number of edges                               :           68 
+ 
+ 
+  ----------------------------------------- Unbalanced Line -------------------------------------------------
+        task name                                                          task time   idle time   idle time
+                                                                                          (takt)   (highest)
+  -----------------------------------------------------------------------------------------------------------
+  [  1] Buttonhole on left flybox                                               0.01        0.93        0.03
+  [  2] Front rise overlocks                                                    0.00        0.93        0.03
+  [  3] knee patch attaches                                                     0.02        0.92        0.01
+  [  4] side pocket flatlock                                                    0.01        0.93        0.02
+  [  5] side pocket overlock                                                    0.00        0.93        0.03
+  [  6] right flybox overlock                                                   0.01        0.93        0.02
+  [  7] side pocket attaches                                                    0.01        0.93        0.02
+  [  8] side pocket topstitches                                                 0.01        0.93        0.02
+  [  9] right flybox attach                                                     0.01        0.93        0.02
+  [ 10] fly attach                                                              0.01        0.93        0.02
+  [ 11] front prep bundling                                                     0.01        0.93        0.02
+  [ 12] Back marking                                                            0.00        0.93        0.03
+  [ 13] Back patch pressing                                                     0.02        0.92        0.01
+  [ 14] Back patch attaches                                                     0.01        0.93        0.02
+  [ 15] Hip pocket cutting                                                      0.00        0.93        0.03
+  [ 16] Hip pocket overlocks                                                    0.02        0.92        0.01
+  [ 17] Hip flap folding                                                        0.00        0.93        0.03
+  [ 18] Buttonhole on hip flap                                                  0.00        0.93        0.03
+  [ 19] Hip flap runstitch                                                      0.01        0.93        0.02
+  [ 20] Hip flap turning                                                        0.00        0.93        0.03
+  [ 21] Hip flap topstitches                                                    0.01        0.93        0.02
+  [ 22] Hip pocket finish &                                                     0.01        0.93        0.02
+  [ 23] Hip flap attaches                                                       0.01        0.93        0.02
+  [ 24] Back prep bundling                                                      0.01        0.93        0.02
+  [ 25] Front & back matching                                                   0.01        0.93        0.02
+  [ 26] Side seam overlocks                                                     0.03        0.91        0.00
+  [ 27] Side seam topstitches                                                   0.02        0.92        0.01
+  [ 28] Knee pocket marking                                                     0.01        0.93        0.02
+  [ 29] Knee pocket folding                                                     0.00        0.93        0.03
+  [ 30] Knee pocket topstitch                                                   0.02        0.92        0.01
+  [ 31] Knee pocket tacking                                                     0.01        0.93        0.02
+  [ 32] Knee pocket overlocks                                                   0.00        0.93        0.03
+  [ 33] Knee pocket hemming                                                     0.02        0.92        0.01
+  [ 34] Knee pocket ironing                                                     0.03        0.91        0.00
+  [ 35] Knee pocket attaches                                                    0.02        0.92        0.01
+  [ 36] Knee flap folding                                                       0.01        0.93        0.02
+  [ 37] Buttonhole on k. flap                                                   0.00        0.93        0.03
+  [ 38] Knee flap runstitch                                                     0.00        0.93        0.03
+  [ 39] Knee flap turning                                                       0.01        0.93        0.02
+  [ 40] Knee flap topstitches                                                   0.01        0.93        0.02
+  [ 41] Knee flap attaches                                                      0.03        0.91        0.00
+  [ 42] Bar tacking                                                             0.03        0.91        0.00
+  [ 43] Back rise overlocks 5 thread                                            0.01        0.93        0.02
+  [ 44] Back rise topstitches                                                   0.01        0.93        0.02
+  [ 45] Big loop matching                                                       0.00        0.94        0.03
+  [ 46] Big loop runstitch                                                      0.00        0.93        0.03
+  [ 47] Big loop turning                                                        0.00        0.94        0.03
+  [ 48] Big loop topstitches                                                    0.00        0.93        0.03
+  [ 49] Big loop button hole                                                    0.00        0.94        0.03
+  [ 50] Small loop runstitch                                                    0.00        0.94        0.03
+  [ 51] Small, big loop, and                                                    0.03        0.91        0.00
+  [ 52] Waist band topstitch                                                    0.02        0.92        0.01
+  [ 53] Waist band closing                                                      0.02        0.91        0.01
+  [ 54] Small loop tacking                                                      0.03        0.91        0.00
+  [ 55] Inseam overlock                                                         0.01        0.93        0.02
+  [ 56] Trouser turning                                                         0.01        0.93        0.02
+  [ 57] inseam topstitch                                                        0.01        0.93        0.02
+  [ 58] Adjustable prep                                                         0.00        0.94        0.03
+  [ 59] 1st adjustable attach                                                   0.02        0.92        0.01
+  [ 60] Button hole on bottom                                                   0.01        0.93        0.02
+  [ 61] Adjustable hemming                                                      0.00        0.93        0.03
+  [ 62] second adjustable attach                                                0.01        0.93        0.02
+  [ 63] Bottom rope attach                                                      0.01        0.92        0.02
+  [ 64] Bottom hemming                                                          0.02        0.92        0.02
+  [ 65] Final bar tacking                                                       0.01        0.92        0.02
+ 
+  Total idle time (takt)                          :        60.25 hrs
+  Total idle time (highest)                       :         1.27 hrs
+  Smoothness index based on takt time             :         7.47 
+  Smoothness index based on the highest task time :         0.17 
+  Line efficiency (takt)                          :         1.14 %
+  Line efficiency (highest)                       :        35.32 %
+ 
+ 
+  ---------------------------------------- Balanced Line (takt) ---------------------------------------------
+        task groupings                                                     task time               idle time
+  -----------------------------------------------------------------------------------------------------------
+  [  1] ['65', '64', '63', '62', '60', '59', '57', '56', '55', '54', '53', '52', '51', '44', '43', '42', '41', '35', '34', '33', '32', '31', '30', '29', '28', '27', '26', '25', '23', '11', '22', '10', '9', '8', '16', '7', '15', '14', '40', '3', '21', '13', '39', '20', '38', '49', '19', '48', '37', '2', '5', '47', '18', '36', '24', '4', '46', '6', '1', '61', '17', '12', '50', '58', '45']        0.70                    0.24
+ 
+  Total idle time                                 :         0.24 hrs
+  Smoothness index                                :         0.24 
+  Maximum units with this setup (annual demand)   :      2505.57 
+  Line efficiency                                 :        74.23 %
+ 
+ 
+  -------------------------------------- Balanced Line (highest) --------------------------------------------
+        task groupings                                                     task time               idle time
+  -----------------------------------------------------------------------------------------------------------
+  [  1] ['65', '64']                                                            0.03                    0.00
+  [  2] ['63', '62']                                                            0.03                    0.00
+  [  3] ['60', '59']                                                            0.03                    0.00
+  [  4] ['57', '56', '55']                                                      0.03                    0.00
+  [  5] ['54']                                                                  0.03                    0.00
+  [  6] ['53']                                                                  0.02                    0.01
+  [  7] ['52']                                                                  0.02                    0.01
+  [  8] ['51']                                                                  0.03                    0.00
+  [  9] ['44', '43']                                                            0.02                    0.01
+  [ 10] ['42']                                                                  0.03                    0.00
+  [ 11] ['41']                                                                  0.03                    0.00
+  [ 12] ['35']                                                                  0.02                    0.01
+  [ 13] ['34']                                                                  0.03                    0.00
+  [ 14] ['33', '32']                                                            0.03                    0.01
+  [ 15] ['31', '30']                                                            0.03                    0.00
+  [ 16] ['29', '28', '27']                                                      0.03                    0.00
+  [ 17] ['26']                                                                  0.03                    0.00
+  [ 18] ['25', '23', '11']                                                      0.02                    0.01
+  [ 19] ['22', '10']                                                            0.02                    0.01
+  [ 20] ['9', '8']                                                              0.02                    0.01
+  [ 21] ['16', '7', '15']                                                       0.03                    0.00
+  [ 22] ['14', '40']                                                            0.02                    0.01
+  [ 23] ['3', '21']                                                             0.02                    0.01
+  [ 24] ['13', '39']                                                            0.03                    0.00
+  [ 25] ['20', '38', '49', '19', '48', '37', '2', '5']                          0.03                    0.00
+  [ 26] ['47', '18', '36', '24', '4', '46']                                     0.03                    0.00
+  [ 27] ['6', '1', '61', '17', '12', '50', '58', '45']                          0.03                    0.00
+ 
+  Total idle time                                 :         0.12 hrs
+  Smoothness index                                :         0.03 
+  Maximum units with this setup (highest)         :     57526.11 
+  Line efficiency                                 :        85.03 %
+  
+  
+  Report generated by C:\Users\asus\Desktop\Riane\rpw\RankedPositionalWeightMethod.py v1.00
+  End of report 
